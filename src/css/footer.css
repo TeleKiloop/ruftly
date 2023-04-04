@@ -1,0 +1,10 @@
+.ui.inverted.vertical.footer.segment{
+    padding:40px 0px 80px 0px;
+    background-color: #41223d !important;
+}
+@media only screen and (max-width: 700px) {
+    .ui.inverted.vertical.footer.segment{
+        padding: 50px 0px 50px 0px;
+        margin-top: 0px;
+    }
+}

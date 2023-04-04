@@ -1,0 +1,28 @@
+.c-carousel__slide{
+    padding: 10px;
+    margin-right: 20px;
+}
+.ui.centered.basic.link.cards{
+    max-height: 100%;
+}
+.ui.top.left.attached.label{
+    background-color: #04e674 !important;
+}
+.desconto{
+    color: white;
+}
+.novo_preco{
+    color: #7e6659;
+    font-family: Ubuntu;
+    font-weight: 800;
+    font-size: clamp(1rem, 1vw + 0.1rem, 1.3rem);
+    margin-right: 5px;
+}
+.antigo_preco{
+    color: #929293;
+    font-family: Ubuntu;
+    font-weight: 800;
+    font-size: clamp(1rem, 1vw + 0.1rem, 1.1rem);
+    margin-right: 5px;
+    text-decoration: line-through;
+}
